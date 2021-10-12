@@ -25,6 +25,8 @@ for side button,I use the 100x100mm button,thats the cheap and easy way to solve
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8378.PNG?raw=true)
 
 ## Then,you need a encoder to control the lever.
+### also you need a frame to fixed encoder.
+## For the lever,you can buy the wood stick or the iron stick,then you can try to use some gear or something to fixed the stick and encoder,I will post here if i get the good way to fixed them.
 
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8379.PNG?raw=true)
 
