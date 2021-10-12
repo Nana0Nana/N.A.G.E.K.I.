@@ -6,6 +6,13 @@
 
 ## FOR All the blueprint,I __didnt__ do the Screw holes, so thats mean you need use drill to creat a hold for screw,I use M3x25 screw to fix all the part.
 
+# First
+## you need print the PCB and you need a Promicro to control.
+
+![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/pcb.png?raw=true)
+
+##I already ping the ports out so you just need connect them.
+
 
 # For main.
 
@@ -46,5 +53,15 @@ and you can use UV print with this pic.
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/surface%20print.png?raw=true)
 
 
+# Afer everything,you will get a complete NAGEKI controller.
 
 
+![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8332.JPG?raw=true)
+
+
+# When you ready for the frame,just use the arudio write the code(i already post it)
+
+# ENJOY YOUR ONGEKI GAME :)
+
+# ！！！attention！！！
+# Im not the professional person for design and codeing,all the idea or design just form my hobby,and I never learn the pcb writing or the CAD drawing.SO the project 100% will have alot of problem,So if you find some problem or you can help me build the project better,pls email me at 2391626794@qq.com  or  Nya@nananana.net.
