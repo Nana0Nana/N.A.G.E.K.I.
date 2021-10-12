@@ -23,4 +23,26 @@ for side button,I use the 100x100mm button,thats the cheap and easy way to solve
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8376.PNG?raw=true)
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8377.PNG?raw=true)
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8378.PNG?raw=true)
+
+## Then,you need a encoder to control the lever.
+
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8379.PNG?raw=true)
+
+# For surface.
+I recommend you use the UV print on the surface,I used 2mm thickness board.
+
+Also,you can just use the Acrylic board on surface.
+
+## !!! Important !!!
+
+you must have the surface board,because the main board size will a bit larger than the button you got! you need surface board to fix that!!!
+
+![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/QQ%E6%88%AA%E5%9B%BE20211012202125.png?raw=true)
+
+and you can use UV print with this pic.
+
+![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/surface%20print.png?raw=true)
+
+
+
+
