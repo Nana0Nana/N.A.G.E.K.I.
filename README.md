@@ -11,7 +11,7 @@
 
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/pcb.png?raw=true)
 
-##I already ping the ports out so you just need connect them.
+## I already ping the ports out so you just need connect them.
 
 
 # For main.
