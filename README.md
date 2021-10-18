@@ -23,8 +23,10 @@ I recommend you use the 15 or 20mm Density wood board
 ## details
 
 For the main button,I get 67x67mm hole,thats a really big size than the button you got.But you will get the Acrylic board,that will fix the hole.
+you need 60x60mm button.
 
 for menu button,I get 50x50mm hole,same,that hold will a bit large than the button size,so you need the Acrylic board.
+you nedd 44x44mm button
 
 for side button,I use the 100x100mm button,thats the cheap and easy way to solve the side button problem.
 ![alt pic](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/pic/IMG_8376.PNG?raw=true)
