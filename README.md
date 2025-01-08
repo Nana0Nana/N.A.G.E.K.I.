@@ -2,8 +2,7 @@
 # [PLEASE CHECK Main Project](https://github.com/Nana0Nana/NAGEKI)
 # ↑ This page dont have update,please check the main ↑
 # 这个页面停止更新，请查看主项目↑↑
-# 由于长期遭受各种利用方便大家的开源项目进行盈利、修改、贩卖等无法被开源社区接受的各种行为，NAGEKI3.0储存库将永久隐藏。
-# Due to long-term suffering from various open source projects that are convenient for everyone to profit from, modify, sell and other behaviors that are unacceptable to the open source community, the NAGEKI3.0 repository will be permanently hidden.
+
 ## A cheap，simple，Ongeki controller Use Keyboard Simulation and Mouse Simulation to controller the ongeki game. Using Pro-micro control.
 ## [中文版介绍 Chinese version](https://github.com/Nana0Nana/N.A.G.E.K.I./blob/main/README_CN.md)
 
